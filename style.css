@@ -1,0 +1,47 @@
+body{
+    background: url('pxfuel.jpg');
+}
+.wrapper{
+    margin: 0 auto;
+    margin-top: 200px;
+    background-color: transparent;
+    padding: 100px;
+    max-width: 500px;
+    padding: 50px;
+    border-radius: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+h2{
+    margin-bottom: 0 0 30px;
+    padding: 30px;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler;
+    text-shadow: 3px 5px 9px #ae9090;
+    border-radius: 90px;
+    text-align: center;
+    /* border: 1px solid red; */
+    background-image: linear-gradient(to bottom right, hsl(185, 50%, 56%), rgba(178, 146, 30, 0.96));
+
+}
+.time{
+    width: 120px;
+    height: 120px;
+    /* background-image: linear-gradient(to right, red,orange,rgb(106, 106, 91),rgb(163, 165, 163),blue,indigo,violet); */
+    background-image: linear-gradient(rgb(78, 111, 116), rgb(183, 202, 214));
+    /* border-radius: 9px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    font-family:Audiowide;
+    text-shadow: 3px 3px 3px #efeed2;
+    border-radius: 20px;
+
+}
+.clock{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
